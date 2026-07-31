@@ -44,12 +44,13 @@ When you tap the feedback button and press **Send**, LABZ transmits what you typ
 
 ### 3. Tempo lookups
 
-When LABZ looks up a song's tempo, it sends the **track title and artist** to:
+When LABZ looks up a song's tempo, it sends the **track title and artist** to third-party music databases. They are tried in order and it stops at the first that answers, so a given lookup may reach one, two, or all three:
 
-- **[Deezer](https://www.deezer.com/legal/personal-datas)** (`api.deezer.com`)
-- **[GetSongBPM](https://getsongbpm.com/)** (`api.getsong.co`)
+1. **[Deezer](https://www.deezer.com/legal/personal-datas)** — `api.deezer.com`
+2. **[GetSongBPM](https://getsongbpm.com/)** — `api.getsong.co`
+3. **SoundNet Track Analysis**, via [RapidAPI](https://rapidapi.com/privacy/) — `track-analysis.p.rapidapi.com`
 
-No identifier of you is attached. Results are cached on your device so the same song isn't looked up twice.
+Only the title and artist are sent — no identifier of you is attached. Results are cached on your device so the same song is never looked up twice.
 
 ### 4. Spotify (only if you connect it)
 
