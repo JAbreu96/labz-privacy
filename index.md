@@ -2,7 +2,6 @@
 title: LABZ Privacy Policy
 ---
 
-
 **Last updated: 30 July 2026**
 
 LABZ (Cypher Companion) is a practice app for street dancers. This policy explains what the app does with your data. The short version: **there is no account, no advertising, and no tracking across apps or websites.** Almost everything stays on your phone.
