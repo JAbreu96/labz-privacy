@@ -6,6 +6,8 @@ Need a hand with **LABZ (Cypher Companion)**? This page covers the common questi
 
 **Contact: [ajoelcrist@gmail.com](mailto:ajoelcrist@gmail.com)**
 
+New to LABZ? The full **[User Guide](https://jabreu96.github.io/labz-privacy/guide)** walks through every screen step by step.
+
 I'm a solo developer, so replies usually land within a couple of days.
 
 ---
